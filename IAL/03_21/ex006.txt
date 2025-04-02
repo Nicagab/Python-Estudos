@@ -1,0 +1,1 @@
+A soma de todos os números pares entre 1 e 102 é: 2550

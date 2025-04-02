@@ -1,0 +1,4 @@
+Maior valor: 5
+Menor valor: 1
+Qtde. de valores apresentados: 5
+Média entre os valores digitados: 3.0
